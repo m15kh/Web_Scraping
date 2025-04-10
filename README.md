@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h1>Web-Scratching</h1>
+<h1>Web-Scraping</h1>
 <p>A collection of web scraping projects to extract useful information from various websites</p>
 
 <h4> <span> · </span> <a href="https://github.com/liam1550/web-scratching/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/liam1550/web-scratching/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/liam1550/web-scratching/issues"> Request Feature </a> </h4>
